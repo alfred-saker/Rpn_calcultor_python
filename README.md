@@ -96,10 +96,10 @@ Then, execute the coverage tests with:
 
 ````bash
 Copy this code
-pytest --cov=my_module
+pytest --cov=my_module (my_module=main)
 ````
 result of test:
-![result test](image-4.png)
+![result test](image-5.png)
 
 ### Create a requirements file
 To facilitate future usage and setups, create a **requirements.txt** file that lists all dependencies. Run the following command:
