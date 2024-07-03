@@ -5,7 +5,7 @@
 <groupId>tdd</groupId>
 <artifactId>empty-java-kata-project</artifactId>
 <version>0.0.1-SNAPSHOT</version>
-<name>Your Project Name</name>
+<name>KATA JAVA MAVEN</name>
 <properties>
 <maven.compiler.target>17</maven.compiler.target>
 <maven.compiler.source>17</maven.compiler.source>
